@@ -1,0 +1,2 @@
+# awesome-library
+Library
